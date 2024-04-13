@@ -9,4 +9,8 @@ public class RocketScience {
     void setNustiu2() {
 
     }
+
+    void lala() {
+
+    }
 }
