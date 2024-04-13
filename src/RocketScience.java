@@ -5,4 +5,8 @@ public class RocketScience {
     void printNustiu() {
 
     }
+
+    void setNustiu2() {
+
+    }
 }
