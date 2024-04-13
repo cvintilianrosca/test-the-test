@@ -3,6 +3,7 @@
 // TASK 2 : add another 3 field-uri in clasa student and another class and rocket science
 // TASK 3:  add some classes
 // TASK 4: add some code (sett add some ifs)
+// TASK 5: add some code (sett add some ifs)
 
 public class Student {
 
